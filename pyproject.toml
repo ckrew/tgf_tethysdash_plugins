@@ -1,0 +1,40 @@
+[project]
+name = "tgf_tethysdash_plugins"
+version = "0.1.0"
+description = "A Tethys plugin collection for Dash integration."
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [
+  { name = "Your Name", email = "you@example.com" }
+]
+license = { text = "MIT" }
+classifiers = [
+  "Programming Language :: Python :: 3",
+  "License :: OSI Approved :: MIT License",
+  "Operating System :: OS Independent"
+]
+dependencies = [
+  "tethys-platform>=4.0",
+  "dash>=2.0",
+  "gdown>=5.0",
+  "geoglows>=2.0",
+  "pandas>=1.5"
+]
+
+[build-system]
+requires = ["setuptools>=65.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project.entry-points."intake.drivers"]
+tgf_compute_metrics = "tethysdash_plugins.compute_metrics:ComputeMetrics"
+tgf_geoglows_forecast_plot = "tethysdash_plugins.forecast_vs_observed:ForecastVsObserved"
+
+[tool.setuptools]
+include-package-data = true
+zip-safe = false
+
+[tool.setuptools.packages.find]
+include = ["*"]
+
+[tool.setuptools.package-data]
+"tethysdash_plugins" = ["static/*.png", "static/*.jpg", "static/*.json", "static/*.geojson", "configurations/*.json"]

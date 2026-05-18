@@ -1,0 +1,842 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.441667,
+          28.952778
+        ]
+      },
+      "properties": {
+        "COMID_v2": "441207110",
+        "uid": "01998494-cdc9-73e9-85f2-e3c06b5db87b",
+        "samplingFeatureCode": "240",
+        "name": "Asaraghat",
+        "River": "Karnali",
+        "elevation_m": "778",
+        "state": "Far-Western",
+        "country_id": "01998401-cb0f-7d3d-8e66-e4fe86af5fbb",
+        "samplingFeatureType": "5016642",
+        "siteType": "Stream",
+        "elevationDatum": "NASA_GSE",
+        "description": "Stream: Karnali. GEGOGloWS v1 COMID: 5016642. GEGOGloWS v2 COMID: 441207110.",
+        "GEOGloWS_v2_vpu": "409",
+        "matching_column": "nepal_240",
+        "matching_column_v2": "NP-240"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.131944,
+          29.497778
+        ]
+      },
+      "properties": {
+        "COMID_v2": "440880975",
+        "uid": "01998494-ce0d-7b5a-b9f3-ed9fb52a4c80",
+        "samplingFeatureCode": "251.6",
+        "name": "Bajhang",
+        "River": "Langur Khola",
+        "elevation_m": "1118",
+        "state": "Far-Western",
+        "country_id": "01998401-cb0f-7d3d-8e66-e4fe86af5fbb",
+        "samplingFeatureType": "5014509",
+        "siteType": "Stream",
+        "elevationDatum": "NASA_GSE",
+        "description": "Stream: Langur Khola. GEGOGloWS v1 COMID: 5014509. GEGOGloWS v2 COMID: 440880975.",
+        "GEOGloWS_v2_vpu": "409",
+        "matching_column": "nepal_251.6",
+        "matching_column_v2": "NP-251.6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.656944,
+          28.517222
+        ]
+      },
+      "properties": {
+        "COMID_v2": "441183738",
+        "uid": "01998494-ce52-7b9b-b7be-0ea907db9132",
+        "samplingFeatureCode": "269.5",
+        "name": "Samaijighat",
+        "River": "Bheri",
+        "elevation_m": "459",
+        "state": "Mid-Western",
+        "country_id": "01998401-cb0f-7d3d-8e66-e4fe86af5fbb",
+        "samplingFeatureType": "5018302",
+        "siteType": "Stream",
+        "elevationDatum": "NASA_GSE",
+        "description": "Stream: Bheri. GEGOGloWS v1 COMID: 5018302. GEGOGloWS v2 COMID: 441183738.",
+        "GEOGloWS_v2_vpu": "409",
+        "matching_column": "nepal_269.5",
+        "matching_column_v2": "NP-269.5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.291667,
+          28.644444
+        ]
+      },
+      "properties": {
+        "COMID_v2": "441259411",
+        "uid": "01998494-ce93-7486-8892-eb98894c5674",
+        "samplingFeatureCode": "280",
+        "name": "Chisapani",
+        "River": "Karnali",
+        "elevation_m": "304",
+        "state": "Mid-Western",
+        "country_id": "01998401-cb0f-7d3d-8e66-e4fe86af5fbb",
+        "samplingFeatureType": "5018273",
+        "siteType": "Stream",
+        "elevationDatum": "NASA_GSE",
+        "description": "Stream: Karnali. GEGOGloWS v1 COMID: 5018273. GEGOGloWS v2 COMID: 441259411.",
+        "GEOGloWS_v2_vpu": "409",
+        "matching_column": "nepal_280",
+        "matching_column_v2": "NP-280"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          81.720556,
+          28.351111
+        ]
+      },
+      "properties": {
+        "COMID_v2": "441092929",
+        "uid": "01998494-ced4-7d13-ad57-ec62171312de",
+        "samplingFeatureCode": "289.95",
+        "name": "Chepang",
+        "River": "Babai",
+        "elevation_m": "316",
+        "state": "Mid-Western",
+        "country_id": "01998401-cb0f-7d3d-8e66-e4fe86af5fbb",
+        "samplingFeatureType": "5019377",
+        "siteType": "Stream",
+        "elevationDatum": "NASA_GSE",
+        "description": "Stream: Babai. GEGOGloWS v1 COMID: 5019377. GEGOGloWS v2 COMID: 441092929.",
+        "GEOGloWS_v2_vpu": "409",
+        "matching_column": "nepal_289.95",
+        "matching_column_v2": "NP-289.95"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.792778,
+          27.853333
+        ]
+      },
+      "properties": {
+        "COMID_v2": "441174135",
+        "uid": "01998494-cf16-7823-997a-f2015b666578",
+        "samplingFeatureCode": "350",
+        "name": "Bagasotigaon",
+        "River": "Rapti",
+        "elevation_m": "311",
+        "state": "West",
+        "country_id": "01998401-cb0f-7d3d-8e66-e4fe86af5fbb",
+        "samplingFeatureType": "5021231",
+        "siteType": "Stream",
+        "elevationDatum": "NASA_GSE",
+        "description": "Stream: Rapti. GEGOGloWS v1 COMID: 5021231. GEGOGloWS v2 COMID: 441174135.",
+        "GEOGloWS_v2_vpu": "409",
+        "matching_column": "nepal_350",
+        "matching_column_v2": "NP-350"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.225,
+          27.947222
+        ]
+      },
+      "properties": {
+        "COMID_v2": "441165875",
+        "uid": "01998494-cf5a-705a-a79e-0e4f0db0bd48",
+        "samplingFeatureCode": "360",
+        "name": "Jalkundi",
+        "River": "Rapti",
+        "elevation_m": "287",
+        "state": "Mid-Western",
+        "country_id": "01998401-cb0f-7d3d-8e66-e4fe86af5fbb",
+        "samplingFeatureType": "5021154",
+        "siteType": "Stream",
+        "elevationDatum": "NASA_GSE",
+        "description": "Stream: Rapti. GEGOGloWS v1 COMID: 5021154. GEGOGloWS v2 COMID: 441165875.",
+        "GEOGloWS_v2_vpu": "409",
+        "matching_column": "nepal_360",
+        "matching_column_v2": "NP-360"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.116111,
+          28.000556
+        ]
+      },
+      "properties": {
+        "COMID_v2": "441194768",
+        "uid": "01998494-cfa1-7979-b4c8-bc8e0c25f80a",
+        "samplingFeatureCode": "375",
+        "name": "Kusum",
+        "River": "Rapti",
+        "elevation_m": "207",
+        "state": "Mid-Western",
+        "country_id": "01998401-cb0f-7d3d-8e66-e4fe86af5fbb",
+        "samplingFeatureType": "5021154",
+        "siteType": "Stream",
+        "elevationDatum": "NASA_GSE",
+        "description": "Stream: Rapti. GEGOGloWS v1 COMID: 5021154. GEGOGloWS v2 COMID: 441194768.",
+        "GEOGloWS_v2_vpu": "409",
+        "matching_column": "nepal_375",
+        "matching_column_v2": "NP-375"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.463889,
+          27.702778
+        ]
+      },
+      "properties": {
+        "COMID_v2": "440977372",
+        "uid": "01998494-cfe8-7ac5-8f6b-82d7c8ff4e81",
+        "samplingFeatureCode": "390",
+        "name": "Butwal",
+        "River": "Tinau",
+        "elevation_m": "185",
+        "state": "West",
+        "country_id": "01998401-cb0f-7d3d-8e66-e4fe86af5fbb",
+        "samplingFeatureType": "5022490",
+        "siteType": "Stream",
+        "elevationDatum": "NASA_GSE",
+        "description": "Stream: Tinau. GEGOGloWS v1 COMID: 5022490. GEGOGloWS v2 COMID: 440977372.",
+        "GEOGloWS_v2_vpu": "409",
+        "matching_column": "nepal_390",
+        "matching_column_v2": "NP-390"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          83.795,
+          27.884722
+        ]
+      },
+      "properties": {
+        "COMID_v2": "441156246",
+        "uid": "01998494-d029-782f-8539-16afbb55bf18",
+        "samplingFeatureCode": "419.1",
+        "name": "Ansing-Kumalgaon",
+        "River": "Kaligandaki",
+        "elevation_m": "361",
+        "state": "West",
+        "country_id": "01998401-cb0f-7d3d-8e66-e4fe86af5fbb",
+        "samplingFeatureType": "5021045",
+        "siteType": "Stream",
+        "elevationDatum": "NASA_GSE",
+        "description": "Stream: Kaligandaki. GEGOGloWS v1 COMID: 5021045. GEGOGloWS v2 COMID: 441156246.",
+        "GEOGloWS_v2_vpu": "409",
+        "matching_column": "nepal_419.1",
+        "matching_column_v2": "NP-419.1"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.265,
+          27.953333
+        ]
+      },
+      "properties": {
+        "COMID_v2": "441131475",
+        "uid": "01998494-d06c-7fbd-a2fe-e78271a130c5",
+        "samplingFeatureCode": "430.5",
+        "name": "Gandaki",
+        "River": "Seti",
+        "elevation_m": "831",
+        "state": "West",
+        "country_id": "01998401-cb0f-7d3d-8e66-e4fe86af5fbb",
+        "samplingFeatureType": "5020691",
+        "siteType": "Stream",
+        "elevationDatum": "NASA_GSE",
+        "description": "Stream: Seti. GEGOGloWS v1 COMID: 5020691. GEGOGloWS v2 COMID: 441131475.",
+        "GEOGloWS_v2_vpu": "409",
+        "matching_column": "nepal_430.5",
+        "matching_column_v2": "NP-430.5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.43,
+          27.95
+        ]
+      },
+      "properties": {
+        "COMID_v2": "441218162",
+        "uid": "01998494-d0ae-70fe-ae69-41210a8b8054",
+        "samplingFeatureCode": "439.7",
+        "name": "Bimalnagar",
+        "River": "Marshyandi",
+        "elevation_m": "362",
+        "state": "West",
+        "country_id": "01998401-cb0f-7d3d-8e66-e4fe86af5fbb",
+        "samplingFeatureType": "5020959",
+        "siteType": "Stream",
+        "elevationDatum": "NASA_GSE",
+        "description": "Stream: Marshyandi. GEGOGloWS v1 COMID: 5020959. GEGOGloWS v2 COMID: 441218162.",
+        "GEOGloWS_v2_vpu": "409",
+        "matching_column": "nepal_439.7",
+        "matching_column_v2": "NP-439.7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.489722,
+          28.061389
+        ]
+      },
+      "properties": {
+        "COMID_v2": "441053038",
+        "uid": "01998494-d0f0-701e-8158-36774b60814b",
+        "samplingFeatureCode": "440",
+        "name": "Gharmbesi",
+        "River": "Chepekhola",
+        "elevation_m": "487",
+        "state": "West",
+        "country_id": "01998401-cb0f-7d3d-8e66-e4fe86af5fbb",
+        "samplingFeatureType": "5020255",
+        "siteType": "Stream",
+        "elevationDatum": "NASA_GSE",
+        "description": "Stream: Chepekhola. GEGOGloWS v1 COMID: 5020255. GEGOGloWS v2 COMID: 441053038.",
+        "GEOGloWS_v2_vpu": "409",
+        "matching_column": "nepal_440",
+        "matching_column_v2": "NP-440"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.183333,
+          27.968889
+        ]
+      },
+      "properties": {
+        "COMID_v2": "441229170",
+        "uid": "01998494-d131-7eca-a830-d88ed162ca48",
+        "samplingFeatureCode": "447",
+        "name": "Betrawati",
+        "River": "Trishuli",
+        "elevation_m": "620",
+        "state": "Central",
+        "country_id": "01998401-cb0f-7d3d-8e66-e4fe86af5fbb",
+        "samplingFeatureType": "5020844",
+        "siteType": "Stream",
+        "elevationDatum": "NASA_GSE",
+        "description": "Stream: Trishuli. GEGOGloWS v1 COMID: 5020844. GEGOGloWS v2 COMID: 441229170.",
+        "GEOGloWS_v2_vpu": "409",
+        "matching_column": "nepal_447",
+        "matching_column_v2": "NP-447"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.138333,
+          27.859722
+        ]
+      },
+      "properties": {
+        "COMID_v2": "440940214",
+        "uid": "01998494-d173-73be-9a9d-7ac7babd4146",
+        "samplingFeatureCode": "448",
+        "name": "Belkot",
+        "River": "Tadi",
+        "elevation_m": "607",
+        "state": "Central",
+        "country_id": "01998401-cb0f-7d3d-8e66-e4fe86af5fbb",
+        "samplingFeatureType": "5021092",
+        "siteType": "Stream",
+        "elevationDatum": "NASA_GSE",
+        "description": "Stream: Tadi. GEGOGloWS v1 COMID: 5021092. GEGOGloWS v2 COMID: 440940214.",
+        "GEOGloWS_v2_vpu": "409",
+        "matching_column": "nepal_448",
+        "matching_column_v2": "NP-448"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.553333,
+          27.835556
+        ]
+      },
+      "properties": {
+        "COMID_v2": "441187896",
+        "uid": "01998494-d1b5-79ae-bafb-853e5e059d04",
+        "samplingFeatureCode": "449.91",
+        "name": "Kalikhola",
+        "River": "Trishuli",
+        "elevation_m": "259",
+        "state": "West",
+        "country_id": "01998401-cb0f-7d3d-8e66-e4fe86af5fbb",
+        "samplingFeatureType": "5021277",
+        "siteType": "Stream",
+        "elevationDatum": "NASA_GSE",
+        "description": "Stream: Trishuli. GEGOGloWS v1 COMID: 5021277. GEGOGloWS v2 COMID: 441187896.",
+        "GEOGloWS_v2_vpu": "409",
+        "matching_column": "nepal_449.91",
+        "matching_column_v2": "NP-449.91"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          84.430556,
+          27.708333
+        ]
+      },
+      "properties": {
+        "COMID_v2": "441226428",
+        "uid": "01998494-d1f6-786a-8422-d3b56f44efff",
+        "samplingFeatureCode": "450",
+        "name": "Devghat",
+        "River": "Narayani",
+        "elevation_m": "184",
+        "state": "West",
+        "country_id": "01998401-cb0f-7d3d-8e66-e4fe86af5fbb",
+        "samplingFeatureType": "5022373",
+        "siteType": "Stream",
+        "elevationDatum": "NASA_GSE",
+        "description": "Stream: Narayani. GEGOGloWS v1 COMID: 5022373. GEGOGloWS v2 COMID: 441226428.",
+        "GEOGloWS_v2_vpu": "409",
+        "matching_column": "nepal_450",
+        "matching_column_v2": "NP-450"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.35,
+          27.708333
+        ]
+      },
+      "properties": {
+        "COMID_v2": "440892060",
+        "uid": "01998494-d236-76ab-8ce4-ca738fd17936",
+        "samplingFeatureCode": "530",
+        "name": "Gaurighat",
+        "River": "Bagmati",
+        "elevation_m": "1318",
+        "state": "Central",
+        "country_id": "01998401-cb0f-7d3d-8e66-e4fe86af5fbb",
+        "samplingFeatureType": "5021843",
+        "siteType": "Stream",
+        "elevationDatum": "NASA_GSE",
+        "description": "Stream: Bagmati. GEGOGloWS v1 COMID: 5021843. GEGOGloWS v2 COMID: 440892060.",
+        "GEOGloWS_v2_vpu": "409",
+        "matching_column": "nepal_530",
+        "matching_column_v2": "NP-530"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.294722,
+          27.628889
+        ]
+      },
+      "properties": {
+        "COMID_v2": "441007648",
+        "uid": "01998494-d279-7d33-9d28-af35fe59c7c7",
+        "samplingFeatureCode": "550.05",
+        "name": "Khokana",
+        "River": "Bagmati",
+        "elevation_m": "1255",
+        "state": "Central",
+        "country_id": "01998401-cb0f-7d3d-8e66-e4fe86af5fbb",
+        "samplingFeatureType": "5022458",
+        "siteType": "Stream",
+        "elevationDatum": "NASA_GSE",
+        "description": "Stream: Bagmati. GEGOGloWS v1 COMID: 5022458. GEGOGloWS v2 COMID: 441007648.",
+        "GEOGloWS_v2_vpu": "409",
+        "matching_column": "nepal_550.05",
+        "matching_column_v2": "NP-550.05"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.469444,
+          27.361944
+        ]
+      },
+      "properties": {
+        "COMID_v2": "441054444",
+        "uid": "01998494-d2ba-7419-88b1-2a9ea52ceefb",
+        "samplingFeatureCode": "581",
+        "name": "Borleni",
+        "River": "Bagmati",
+        "elevation_m": "272",
+        "state": "Central",
+        "country_id": "01998401-cb0f-7d3d-8e66-e4fe86af5fbb",
+        "samplingFeatureType": "5023371",
+        "siteType": "Stream",
+        "elevationDatum": "NASA_GSE",
+        "description": "Stream: Bagmati. GEGOGloWS v1 COMID: 5023371. GEGOGloWS v2 COMID: 441054444.",
+        "GEOGloWS_v2_vpu": "409",
+        "matching_column": "nepal_581",
+        "matching_column_v2": "NP-581"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.491667,
+          27.151667
+        ]
+      },
+      "properties": {
+        "COMID_v2": "441066837",
+        "uid": "01998494-d2fb-7454-8edc-96a49ff536a8",
+        "samplingFeatureCode": "589",
+        "name": "Padharadovan",
+        "River": "Bagmati",
+        "elevation_m": "251",
+        "state": "Central",
+        "country_id": "01998401-cb0f-7d3d-8e66-e4fe86af5fbb",
+        "samplingFeatureType": "5025238",
+        "siteType": "Stream",
+        "elevationDatum": "NASA_GSE",
+        "description": "Stream: Bagmati. GEGOGloWS v1 COMID: 5025238. GEGOGloWS v2 COMID: 441066837.",
+        "GEOGloWS_v2_vpu": "409",
+        "matching_column": "nepal_589",
+        "matching_column_v2": "NP-589"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.2125,
+          27.31
+        ]
+      },
+      "properties": {
+        "COMID_v2": "440987021",
+        "uid": "01998494-d340-74a7-a839-47a4bbf231de",
+        "samplingFeatureCode": "602",
+        "name": "Tumlingtar",
+        "River": "Sabayakhola",
+        "elevation_m": "288",
+        "state": "East",
+        "country_id": "01998401-cb0f-7d3d-8e66-e4fe86af5fbb",
+        "samplingFeatureType": "5023515",
+        "siteType": "Stream",
+        "elevationDatum": "NASA_GSE",
+        "description": "Stream: Sabayakhola. GEGOGloWS v1 COMID: 5023515. GEGOGloWS v2 COMID: 440987021.",
+        "GEOGloWS_v2_vpu": "409",
+        "matching_column": "nepal_602",
+        "matching_column_v2": "NP-602"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.191667,
+          27.333333
+        ]
+      },
+      "properties": {
+        "COMID_v2": "441128748",
+        "uid": "01998494-d382-79d5-8652-1108fd32cd33",
+        "samplingFeatureCode": "604.5",
+        "name": "Turkighat",
+        "River": "Arun",
+        "elevation_m": "356",
+        "state": "East",
+        "country_id": "01998401-cb0f-7d3d-8e66-e4fe86af5fbb",
+        "samplingFeatureType": "5023610",
+        "siteType": "Stream",
+        "elevationDatum": "NASA_GSE",
+        "description": "Stream: Arun. GEGOGloWS v1 COMID: 5023610. GEGOGloWS v2 COMID: 441128748.",
+        "GEOGloWS_v2_vpu": "409",
+        "matching_column": "nepal_604.5",
+        "matching_column_v2": "NP-604.5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          85.769444,
+          27.805556
+        ]
+      },
+      "properties": {
+        "COMID_v2": "441072314",
+        "uid": "01998494-d3c5-7645-a43f-eb72b1983985",
+        "samplingFeatureCode": "620",
+        "name": "Jalbire",
+        "River": "Balephi",
+        "elevation_m": "908",
+        "state": "Central",
+        "country_id": "01998401-cb0f-7d3d-8e66-e4fe86af5fbb",
+        "samplingFeatureType": "5021618",
+        "siteType": "Stream",
+        "elevationDatum": "NASA_GSE",
+        "description": "Stream: Balephi. GEGOGloWS v1 COMID: 5021618. GEGOGloWS v2 COMID: 441072314.",
+        "GEOGloWS_v2_vpu": "409",
+        "matching_column": "nepal_620",
+        "matching_column_v2": "NP-620"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.086667,
+          27.634722
+        ]
+      },
+      "properties": {
+        "COMID_v2": "441121855",
+        "uid": "01998494-d408-7488-965b-5c06f9c84dc3",
+        "samplingFeatureCode": "647",
+        "name": "Busti",
+        "River": "Tamakosi",
+        "elevation_m": "996",
+        "state": "Central",
+        "country_id": "01998401-cb0f-7d3d-8e66-e4fe86af5fbb",
+        "samplingFeatureType": "5022094",
+        "siteType": "Stream",
+        "elevationDatum": "NASA_GSE",
+        "description": "Stream: Tamakosi. GEGOGloWS v1 COMID: 5022094. GEGOGloWS v2 COMID: 441121855.",
+        "GEOGloWS_v2_vpu": "409",
+        "matching_column": "nepal_647",
+        "matching_column_v2": "NP-647"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          86.667222,
+          27.270556
+        ]
+      },
+      "properties": {
+        "COMID_v2": "441167281",
+        "uid": "01998494-d449-79ea-b5f3-9a22c3ae1d11",
+        "samplingFeatureCode": "670",
+        "name": "Rabuwabazar",
+        "River": "Dudhkosi",
+        "elevation_m": "518",
+        "state": "East",
+        "country_id": "01998401-cb0f-7d3d-8e66-e4fe86af5fbb",
+        "samplingFeatureType": "5023626",
+        "siteType": "Stream",
+        "elevationDatum": "NASA_GSE",
+        "description": "Stream: Dudhkosi. GEGOGloWS v1 COMID: 5023626. GEGOGloWS v2 COMID: 441167281.",
+        "GEOGloWS_v2_vpu": "409",
+        "matching_column": "nepal_670",
+        "matching_column_v2": "NP-670"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.7125,
+          27.158333
+        ]
+      },
+      "properties": {
+        "COMID_v2": "441108116",
+        "uid": "01998494-d489-7f3a-8954-9adb87626605",
+        "samplingFeatureCode": "684",
+        "name": "Majhitar",
+        "River": "Tamur",
+        "elevation_m": "464",
+        "state": "East",
+        "country_id": "01998401-cb0f-7d3d-8e66-e4fe86af5fbb",
+        "samplingFeatureType": "5024055",
+        "siteType": "Stream",
+        "elevationDatum": "NASA_GSE",
+        "description": "Stream: Tamur. GEGOGloWS v1 COMID: 5024055. GEGOGloWS v2 COMID: 441108116.",
+        "GEOGloWS_v2_vpu": "409",
+        "matching_column": "nepal_684",
+        "matching_column_v2": "NP-684"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.329167,
+          26.930556
+        ]
+      },
+      "properties": {
+        "COMID_v2": "441168671",
+        "uid": "01998494-d4cc-7896-876b-314cce91dc14",
+        "samplingFeatureCode": "690",
+        "name": "Mulghat",
+        "River": "Tamur",
+        "elevation_m": "265",
+        "state": "East",
+        "country_id": "01998401-cb0f-7d3d-8e66-e4fe86af5fbb",
+        "samplingFeatureType": "5025047",
+        "siteType": "Stream",
+        "elevationDatum": "NASA_GSE",
+        "description": "Stream: Tamur. GEGOGloWS v1 COMID: 5025047. GEGOGloWS v2 COMID: 441168671.",
+        "GEOGloWS_v2_vpu": "409",
+        "matching_column": "nepal_690",
+        "matching_column_v2": "NP-690"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.158333,
+          26.866667
+        ]
+      },
+      "properties": {
+        "COMID_v2": "441137026",
+        "uid": "01998494-d550-75e5-887d-9ac0a4452bfd",
+        "samplingFeatureCode": "695",
+        "name": "Chatara",
+        "River": "Saptakosi",
+        "elevation_m": "471",
+        "state": "East",
+        "country_id": "01998401-cb0f-7d3d-8e66-e4fe86af5fbb",
+        "samplingFeatureType": "5026660",
+        "siteType": "Stream",
+        "elevationDatum": "NASA_GSE",
+        "description": "Stream: Saptakosi. GEGOGloWS v1 COMID: 5026660. GEGOGloWS v2 COMID: 441137026.",
+        "GEOGloWS_v2_vpu": "409",
+        "matching_column": "nepal_695",
+        "matching_column_v2": "NP-695"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.942083,
+          29.25375
+        ]
+      },
+      "properties": {
+        "COMID_v2": "441052985",
+        "uid": "01998494-d592-7c1e-a8c7-47a737347f30",
+        "samplingFeatureCode": "54902",
+        "name": "Dipayal",
+        "River": "Seti",
+        "elevation_m": "528",
+        "state": "Far-Western",
+        "country_id": "01998401-cb0f-7d3d-8e66-e4fe86af5fbb",
+        "samplingFeatureType": "5015550",
+        "siteType": "Stream",
+        "elevationDatum": "NASA_GSE",
+        "description": "Stream: Seti. GEGOGloWS v1 COMID: 5015550. GEGOGloWS v2 COMID: 441052985.",
+        "GEOGloWS_v2_vpu": "409",
+        "matching_column": "nepal_54902",
+        "matching_column_v2": "NP-54902"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          87.877917,
+          26.686427
+        ]
+      },
+      "properties": {
+        "COMID_v2": "441091626",
+        "uid": "01998494-d5d5-7679-a81b-1ba5355ce53d",
+        "samplingFeatureCode": "58807",
+        "name": "Mainachuli",
+        "River": "Kankai",
+        "elevation_m": "146",
+        "state": "East",
+        "country_id": "01998401-cb0f-7d3d-8e66-e4fe86af5fbb",
+        "samplingFeatureType": "5027234",
+        "siteType": "Stream",
+        "elevationDatum": "NASA_GSE",
+        "description": "Stream: Kankai. GEGOGloWS v1 COMID: 5027234. GEGOGloWS v2 COMID: 441091626.",
+        "GEOGloWS_v2_vpu": "409",
+        "matching_column": "nepal_58807",
+        "matching_column_v2": "NP-58807"
+      }
+    }
+  ]
+}
