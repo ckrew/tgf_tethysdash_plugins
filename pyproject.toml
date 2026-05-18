@@ -26,7 +26,6 @@ requires = ["setuptools>=65.0", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project.entry-points."intake.drivers"]
-tgf_compute_metrics = "tethysdash_plugins.compute_metrics:ComputeMetrics"
 tgf_geoglows_forecast_plot = "tethysdash_plugins.forecast_vs_observed:ForecastVsObserved"
 
 [tool.setuptools]
