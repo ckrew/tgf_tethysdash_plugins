@@ -27,6 +27,15 @@ build-backend = "setuptools.build_meta"
 
 [project.entry-points."intake.drivers"]
 tgf_geoglows_forecast_plot = "tethysdash_plugins.forecast_vs_observed:ForecastVsObserved"
+tgf_hydrograph = "tethysdash_plugins.hydrograph:Hydrograph"
+tgf_scatter_plot = "tethysdash_plugins.scatter_plot:ScatterPlot"
+tgf_flow_duration_curve = "tethysdash_plugins.flow_duration_curve:FlowDurationCurve"
+tgf_residuals = "tethysdash_plugins.residuals:Residuals"
+tgf_seasonal_analysis = "tethysdash_plugins.seasonal_analysis:SeasonalAnalysis"
+tgf_taylor_diagram = "tethysdash_plugins.taylor_diagram:TaylorDiagram"
+tgf_metrics_table = "tethysdash_plugins.metrics_table:MetricsTable"
+tgf_geoglows_forecast = "tethysdash_plugins.geoglows_forecast:GeoglowsForecast"
+tgf_exceedance_probability = "tethysdash_plugins.exceedance_probability:ExceedanceProbability"
 
 [tool.setuptools]
 include-package-data = true
