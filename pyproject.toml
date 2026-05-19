@@ -36,6 +36,8 @@ tgf_taylor_diagram = "tethysdash_plugins.taylor_diagram:TaylorDiagram"
 tgf_metrics_table = "tethysdash_plugins.metrics_table:MetricsTable"
 tgf_geoglows_forecast = "tethysdash_plugins.geoglows_forecast:GeoglowsForecast"
 tgf_exceedance_probability = "tethysdash_plugins.exceedance_probability:ExceedanceProbability"
+tgf_station_performance = "tethysdash_plugins.station_performance:StationPerformance"
+tgf_nepal_performance_layer = "tethysdash_plugins.nepal_performance_layer:NepalPerformanceLayer"
 
 [tool.setuptools]
 include-package-data = true
