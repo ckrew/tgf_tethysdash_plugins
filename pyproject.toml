@@ -36,4 +36,4 @@ zip-safe = false
 include = ["*"]
 
 [tool.setuptools.package-data]
-"tethysdash_plugins" = ["static/*.png", "static/*.jpg", "static/*.json", "static/*.geojson", "configurations/*.json"]
+"tethysdash_plugins" = ["static/*.png", "static/*.jpg", "static/*.json", "static/*.geojson", "configurations/*.json", "streamflow_cache/*.parquet"]
