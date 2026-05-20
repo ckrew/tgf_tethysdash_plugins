@@ -13,12 +13,7 @@ classifiers = [
   "License :: OSI Approved :: MIT License",
   "Operating System :: OS Independent"
 ]
-dependencies = [
-  "tethys-platform>=4.0",
-  "gdown",
-  "geoglows>=2.0",
-  "pandas>=1.5"
-]
+dependencies = []
 
 [build-system]
 requires = ["setuptools>=65.0", "wheel"]
