@@ -15,7 +15,7 @@ classifiers = [
 ]
 dependencies = [
   "tethys-platform>=4.0",
-  "gdown>=5.0",
+  "gdown",
   "geoglows>=2.0",
   "pandas>=1.5"
 ]
